@@ -1,4 +1,4 @@
-var debug = true;
+var debug = false;
 
 var board = [8]; //board will be a 2d array with a piece (or nothing)
 var scl = 64;
