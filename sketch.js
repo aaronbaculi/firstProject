@@ -28,7 +28,7 @@ function preload()
   bRook = loadImage("assets/bRook.png");
   */
   
-  //spriteSheet = loadImage("assets/chessSpriteSheet.png");
+  spriteSheet = loadImage("chessSpriteSheet.png");
 }
 
 function setup() {
