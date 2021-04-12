@@ -1,4 +1,4 @@
-var debug = false;
+var debug = true;
 
 var board = [8]; //board will be a 2d array with a piece (or nothing)
 var scl = 64;
@@ -28,7 +28,7 @@ function preload()
   bRook = loadImage("assets/bRook.png");
   */
   
-  spriteSheet = loadImage("assets/chessSpriteSheet.png");
+  //spriteSheet = loadImage("assets/chessSpriteSheet.png");
 }
 
 function setup() {
